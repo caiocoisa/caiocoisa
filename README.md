@@ -1,7 +1,7 @@
 # Caio Silva 😃
 Welcome to my page!
 ### About 
-Graduating in Computer Science focused. I have some experience using the technologies below. At the moment, I'm developing my final course work with Machine Learning using **Python** ![Python](https://img.shields.io/badge/-white?style=flat-square&logo=python&logoColor=3776AB) and its tools, and learning about **C-sharp**![C-Sharp](https://img.shields.io/badge/-white?style=flat-square&logo=c-sharp&logoColor=239120), **.NET**![DotNet](https://img.shields.io/badge/-white?style=flat-square&logo=.net&logoColor=5C2D91) and **MongoDB**![MongoDB](https://img.shields.io/badge/-white?style=flat-square&logo=mongodb&logoColor=47A248).
+Graduating in Computer Science focused. I have some experience using the technologies below. At the moment, I'm developing my final course project with Machine Learning using **Python** ![Python](https://img.shields.io/badge/-white?style=flat-square&logo=python&logoColor=3776AB) and its tools, and learning about **Java**, **JSP**, **Servlet**.
 
 ### Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
