@@ -10,12 +10,9 @@ Graduating in Computer Science focused. I have some experience using the technol
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C-Sharp](https://img.shields.io/badge/C--Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-010101?style=flat-square&logo=javascript&logoColor=white)
 ![SAP](https://img.shields.io/badge/FI--CA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-FF880F?style=flat-square&logo=scratch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Mongo%20DB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Tools
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
