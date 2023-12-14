@@ -6,7 +6,7 @@ This is the list of projects that I have been developing to experiment with tech
 Project | React 18 | NextJS 14 | styled-components | GIT | NextUI
 --- |:---:|:---:|:---:|:---:|:---:|
 [Password Generator](https://github.com/caiocoisa/password-generator) |  ✔️ |  ✔️ |✔️|✔️| |
-[IoT Dashboard (on development)](https://github.com/caiocoisa/monitor-iot/tree/develop) | ✔️ |  ✔️ | |✔️|✔️|
+[IoT Dashboard (on development)](https://github.com/caiocoisa/monitor-iot) | ✔️ |  ✔️ | |✔️|✔️|
 
 #### Contact
 ![Linkedin Badge](https://img.shields.io/badge/-caiosilvadossantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiosilvadossantos/)
